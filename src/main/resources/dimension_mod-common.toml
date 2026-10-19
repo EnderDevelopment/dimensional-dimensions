@@ -1,0 +1,15 @@
+# Common configuration settings
+# These settings apply to both client and server
+
+[general]
+# Enable or disable the Dune dimension
+enableDuneDimension = true
+
+# Enable or disable the Living World dimension
+enableLivingWorldDimension = true
+
+# Enable or disable the Forgotten World dimension
+enableForgottenWorldDimension = true
+
+# Enable or disable the World of Deception dimension
+enableWorldOfDeceptionDimension = true

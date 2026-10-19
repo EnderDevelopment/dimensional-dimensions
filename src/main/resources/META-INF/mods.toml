@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All rights reserved"
+
+[[mods]]
+modId="dimension_mod"
+version="${file.jarVersion}"
+displayName="Dimension Mod"
+credits="EnderDevelopment"
+authors="EnderDevelopment"
+description="A mod with 4 unique dimensions: Dune, Living World, Forgotten World, and World of Deception."
+
+[[dependencies.dimension_mod]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.dimension_mod]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.21.1,1.21.2)"
+ordering="NONE"
+side="BOTH"
